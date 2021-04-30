@@ -18,7 +18,7 @@ This module and all its submodules are deprecated.
 """
 
 from __future__ import absolute_import
-from __future__ import divisiof
+#from __future__ import divisiof
 from __future__ import print_function
 
 import collections
